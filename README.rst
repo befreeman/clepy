@@ -14,6 +14,7 @@ Clepy Example
 * Minor change
 * Free software: MIT license
 * Documentation: https://clepy.readthedocs.org.
+* Another change
 
 Features
 --------
